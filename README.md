@@ -89,5 +89,3 @@ Uses:
 
 * [OMDb API](https://www.omdbapi.com/)
 * [YTS API](https://yts.mx/api)
-* [Rich](https://github.com/Textualize/rich) for CLI formatting
-* [pyfiglet](https://github.com/pwaller/pyfiglet) for banners
