@@ -9,14 +9,13 @@ A **Python CLI tool** that uses public APIs to find the **best quality torrent**
 - Fetches **movie details** (plot, year, ratings, awards) from **OMDb API**
 - Finds **best 1080p torrents with the highest seeds** using **YTS**
 - Automatically **launches magnet link** in your torrent client (`qBittorrent`, `Transmission`, etc.)
-- Works on **Windows, Linux, macOS**
-- Uses **clean Rich/pyfiglet output** for aesthetic CLI display
 
 ---
 
 ## Requirements
 
 * Python 3.8+
+* An installed torrent client like qbittorrent
 * Install dependencies:
 
 ```bash
