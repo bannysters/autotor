@@ -26,10 +26,10 @@ pip install requests rich pyfiglet
 
 ## Setup
 
-1️⃣ Get a **free OMDb API key**:
+1. Get a **free OMDb API key**:
 Register at [https://www.omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx).
 
-2️⃣ Paste your key in the script:
+2. Paste your key in the script:
 
 ```python
 api_key = "YOUR_OMDB_API_KEY"
